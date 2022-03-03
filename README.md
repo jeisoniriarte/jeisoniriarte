@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/jeisoniriarte" target="blank"><img src="https://img.shields.io/twitter/follow/jeisoniriarte?logo=twitter&style=for-the-badge" alt="jeisoniriarte" /></a> </p>
 
-- 🌱 I’m currently learning **Web Development and Mobile Application Development**
+🌱 I’m currently learning **Web Development and Mobile Application Development**
 
-- 📫 How to reach me **jeison.18.efra@gmail.com**
+📫 How to reach me **jeison.18.efra@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
