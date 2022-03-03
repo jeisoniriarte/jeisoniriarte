@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jeison Iriarte</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h1 align="left">Hi 👋, I'm Jeison Iriarte</h1>
+<h3 align="left">A passionate frontend developer</h3>
 
 <p align="left"> <a href="https://twitter.com/jeisoniriarte" target="blank"><img src="https://img.shields.io/twitter/follow/jeisoniriarte?logo=twitter&style=for-the-badge" alt="jeisoniriarte" /></a> </p>
 
